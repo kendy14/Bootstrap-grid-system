@@ -1,1 +1,116 @@
-/* Inserta tu código aqui */
+//* Inserta tu código aqui */
+/*div{
+	outline: red 1px solid;
+}*/
+.container-fluid{
+	padding: 20px 30px;
+}
+.menu{
+	margin-top: 30px;
+}
+/*.nav{ width: 100%;}
+@media(max-width:950px) {
+  .nav li:nth-child(-n+3){ width: 13%;}
+  .nav li:nth-child(n+4){ width: 20%;}
+  .nav li>a{
+    padding: 10px 2px;
+    font-size: 12px;
+  }
+}*/
+a{	color:black;}
+.menu li:nth-child(3){border-left: 1px solid black;}
+.active{color:white;}
+.his h3, .vide h3 {background-color: grey;color: white;display: inline-block;}
+.ar h5{display: inline-block;padding: 0 5px;border-right: 1px solid black;}
+.his, .web, .fo, .para, .mas, .agen{
+	border-bottom: 1px solid grey;
+}
+.web h5{background-color: black;color: white;display: inline-block;padding: 2px 15px;}
+.web h6{
+	display: inline-block;
+	border-right: 1px solid black;
+	padding: 0 5px;
+}
+.video-responsive {
+    position: relative;
+    margin-bottom: 20px;
+    padding-top: 56.25%;
+}
+.video-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.ver ul{
+	display: inline-block;
+}
+.vide{
+	background-color: #DBDBDB;
+    padding: 0 10px;
+    margin-top: 18px;
+}
+.vide h3{
+	margin-top: 0px;
+}
+.agen h3{
+    background-color: grey;
+	color: white;
+	margin-right: 120px;
+}
+.ene{
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+	padding: 25px 30px 35px 28px;
+	font-size: 20px;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.lo h4{
+	margin-bottom: 0;
+}
+.ene p{
+	vertical-align: 50%;
+}
+.fecha{
+	 display: inline-block;
+	
+}
+.lo{
+	padding-left: 45px;
+
+}
+.lis{
+	list-style: none;
+}
+.lis li{
+	padding-bottom: 5px;
+}
+.maga{
+	background-color: #FAFAFA;
+    padding: 0 10px;
+    color: #707070;
+}
+.maga h3{
+	color: black !important;
+	font-size: 20px;
+}
+.new{
+    padding: 20px 25px;
+    background-color: #FAFAFA;
+    margin-top: 20px;
+}
+.pri{
+	border-bottom: 5px solid grey;
+}
+.rubro h3{
+	font-size: 20px;
+}
+.rubro li{
+	margin: 0;
+}
+.rubro .li{
+	padding: 0;
+}
