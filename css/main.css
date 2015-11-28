@@ -8,21 +8,12 @@
 .menu{
 	margin-top: 30px;
 }
-/*.nav{ width: 100%;}
-@media(max-width:950px) {
-  .nav li:nth-child(-n+3){ width: 13%;}
-  .nav li:nth-child(n+4){ width: 20%;}
-  .nav li>a{
-    padding: 10px 2px;
-    font-size: 12px;
-  }
-}*/
 a{	color:black;}
 .menu li:nth-child(3){border-left: 1px solid black;}
 .active{color:white;}
 .his h3, .vide h3 {background-color: grey;color: white;display: inline-block;}
 .ar h5{display: inline-block;padding: 0 5px;border-right: 1px solid black;}
-.his, .web, .fo, .para, .mas, .agen{
+.his, .web, .fo, .mas, .agen{
 	border-bottom: 1px solid grey;
 }
 .web h5{background-color: black;color: white;display: inline-block;padding: 2px 15px;}
@@ -60,27 +51,13 @@ a{	color:black;}
 	margin-right: 120px;
 }
 .ene{
-	width: 100px;
-	height: 100px;
+	width: 80px;
+	height: 80px;
 	background-color: grey;
-	padding: 25px 30px 35px 28px;
+	padding: 10px 14px;
 	font-size: 20px;
 	display: inline-block;
 	margin-bottom: 10px;
-}
-.lo h4{
-	margin-bottom: 0;
-}
-.ene p{
-	vertical-align: 50%;
-}
-.fecha{
-	 display: inline-block;
-	
-}
-.lo{
-	padding-left: 45px;
-
 }
 .lis{
 	list-style: none;
